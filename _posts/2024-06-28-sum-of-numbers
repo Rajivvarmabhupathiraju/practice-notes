@@ -1,5 +1,5 @@
 ---
-title: "codesum2"
+title: "div"
 date: 2024-06-26
 categories:
 ---
@@ -24,3 +24,5 @@ int main(void)
 
     printf("The sum of %i, %i, %i and %i is %i/ ./n", number1, number2, number3, number4, sum);
 }
+
+```
