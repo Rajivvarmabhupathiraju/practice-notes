@@ -1,6 +1,6 @@
 ---
 title: "evennumbers bwn 100"
-date: 2024-07-0
+date: 2024-07-09
 categories:
 ---
 ```c
